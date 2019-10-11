@@ -1,4 +1,4 @@
-###JUEGO DE ARBOLES DE DESCISION
+### JUEGO DE ARBOLES DE DESCISION
 
 este juego es elaborado para la materia de investigacion de operaciones 3.
 
